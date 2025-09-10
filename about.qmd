@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+To learn more about me visit <https://tanav.xyz>.

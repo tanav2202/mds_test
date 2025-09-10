@@ -1,7 +1,7 @@
 ---
-title: "mds_test"
+title: "DS 521 Lab Assignment"
 ---
 
-This is a Quarto website.
+This is a website for DS 521 Computing platforms course
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about me visit <https://tanav.xyz>.
